@@ -29,3 +29,8 @@ Stalling. 2005. Sistemas Operativos. Aspectos internos y principios de diseño. 
 Silberschatz, Galvin, Gagne. 2005. Fundamentos de sistemas operativos. Septima edicición.
 
 Academia Usero. 2015. https://www.youtube.com/watch?v=HShMFlcAUJ0
+
+Código base y GUI (interfaz gráfica) desarrollado por Daniel Mendiguri y Daniela Vilchez.
+
+Caso específico del problema a visualizar en la GUI:
+Cero lectores, varios escritores
