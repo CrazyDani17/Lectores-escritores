@@ -19,4 +19,10 @@ pide el problema, gracias a las operaciones:
 -wait() indica que el proceso que invoca esta operación queda suspendido hasta que otro proceso invoque la operación
 -signal() hace que se reanude exactamente uno de los procesos suspendidos.
 
-link del video: 
+link del video: https://drive.google.com/file/d/1XWNHmDpsry_0PCkBXOfrCLdj_zFLuVox/view?usp=sharing
+
+Referencias:
+
+Stalling. 2005. Sistemas Operativos. Aspectos internos y principios de diseño. Madrid. Pearson Educación.
+Silberschatz, Galvin, Gagne. 2005. Fundamentos de sistemas operativos. Septima edicición.
+Academia Usero. 2015. https://www.youtube.com/watch?v=HShMFlcAUJ0
