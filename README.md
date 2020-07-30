@@ -17,6 +17,7 @@ como mecanismo de sincronización y exclusión mutua para así realizar las rest
 pide el problema, gracias a las operaciones:
 
 -wait() indica que el proceso que invoca esta operación queda suspendido hasta que otro proceso invoque la operación
+
 -signal() hace que se reanude exactamente uno de los procesos suspendidos.
 
 link del video: https://drive.google.com/file/d/1XWNHmDpsry_0PCkBXOfrCLdj_zFLuVox/view?usp=sharing
