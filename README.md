@@ -25,5 +25,7 @@ link del video: https://drive.google.com/file/d/1XWNHmDpsry_0PCkBXOfrCLdj_zFLuVo
 Referencias:
 
 Stalling. 2005. Sistemas Operativos. Aspectos internos y principios de diseño. Madrid. Pearson Educación.
+
 Silberschatz, Galvin, Gagne. 2005. Fundamentos de sistemas operativos. Septima edicición.
+
 Academia Usero. 2015. https://www.youtube.com/watch?v=HShMFlcAUJ0
